@@ -2,11 +2,11 @@
 
 <!-- Part 4: Study designs -->
 
-### **Introduksjon**
+### Introduksjon
 
 I denne oppgaven har jeg valgt fem originale artikler hvor jeg skal se på styrkene og svakhetene omhandlet studienes design og valg av statistiske tester. De fem valgte studiene omhandler muskelkvalitet (MK) innenfor styrketrening. Hvor godt en muskel klarer å løse en oppgave i forhold til størrelsen samt kvaliteten på muskelen sier noe om muskelkvaliteten. Muskelkvalitet er definert som styrke per enhet muskelmasse.[@Ivey2000]. Begrepene muskelkvalitet og spesifikk spenning har lik betydning i denne oppgaven.
 
-### **Metode**
+### Metode
 
 *Formål*
 
@@ -28,7 +28,7 @@ Variasjonsanalysen kalt «ANOVA» var den statistiske analysen som ble tatt i br
 
 Ivey (2000), Pinto (2014), Erskine (2011) og Tracy (1999) har tatt i bruk p-verdi hvor samtlige hadde et signifikansnivå under 0.05 (P \< 0.05). Ferrari (2016) tok i bruk alpha for å vise til at studien var signifikant ved a= 0.05. Både Erskine (2011) og Ferrari (2016) hadde også tatt i bruk t-test for å sammenligne belastningene før og etter styrketreningen for hver pulje.
 
-### **Resultat**
+### Resultat
 
 Til tross for at alle studiene hadde ulik tilnærming i form av antall repetisjoner og serier, samt ulik kombinasjon av antall deltakere, alder og kjønn, fikk alle et resultat som indikerer en viss prosent økning i MK etter styrketrening. Alle som hadde en klar hypotese, fikk enten bekreftet eller avkreftet den etter datainnsamlingen. Til tross for dette fikk ikke alle studiene svar på alt de lurte på.
 
@@ -96,7 +96,7 @@ Artikkelen av Ferrari (2016) hadde en klar hypotese i forkant av studien og fikk
 |            |                        |                                               |                                                     |                                                                                             |
 +------------+------------------------+-----------------------------------------------+-----------------------------------------------------+---------------------------------------------------------------------------------------------+
 
-### **Diskusjon**
+### Diskusjon
 
 Samtlige studier konkluderte, som sagt tidligere, at det er en tydelig økning i muskelkvalitet etter styrketrening. I tabellen ovenfor vises alle resultatene fra studiene, og ut ifra tabellen kan vi se at styrketrening med mellom 8-15 reps, 3 serier og 2-3 ganger i uka ga en positiv innvirkning på muskelkvaliteten. Det kom også frem at alle deltakerne uavhengig av kjønn og alder fikk økt muskelkvalitet. P-verdien på \<0.05 og alpha på \<0.05 indikerer at det er under 5% sannsynlig for at resultatene i alle studiene er tilfeldige. Det kan derimot være vanskelig å konkludere med hvilke antall repetisjoner og serier som er optimalt for hver gruppe med tanke på å øke muskelkvaliteten da alle studiene har ulikt antall. Til videre forskning ville det derfor kanskje vært interresant å undersøke om hvilke sammensetning av repetisjoner og serier som gir mest økning i muskelkvalitet.
 

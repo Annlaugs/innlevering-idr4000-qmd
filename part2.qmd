@@ -8,9 +8,9 @@ editor:
 
 <!-- Part 1: Laboratory report -->
 
-## **Ekstraksjon og analyse av DNA** 
+## Ekstraksjon og analyse av DNA 
 
-#### **Introduksjon** 
+### Introduksjon 
 
 Hvilke egenskaper kroppen har tilegnet seg eller har, påvirker
 prestasjon i både idrett og dagligdagse gjøremål. Med styrke- og
@@ -37,7 +37,7 @@ samfunnet. I denne rapporten vil vi bruke metoden til Schadock et al.
 (2015) for å analysere ACTN3-genet og kartlegge hvilken av de ulike
 genotypene som finnes hos enkeltpersoner.
 
-#### **Metode** 
+### Metode 
 
 *DNA-ekstraksjon*
 
@@ -98,7 +98,7 @@ og DNA ladder mikset vi inn "loading dye", som besto av 1 μl av 6X "dye"
 per 5 μl med prøve. Deretter ble elektroforesen satt på 150V i omtrent 1
 time.
 
-### **Resultater** 
+### Resultater 
 
 *Hovedfunn*
 
@@ -122,7 +122,7 @@ resultat fra prøve 2 og 5.
 
 ![](images/Bilde1.jpg)
 
-### **Diskusjon** 
+### Diskusjon 
 
 Basert på det Schadock et al. (2015) skriver i sin artikkel er det ikke
 tilstrekkelig med forskning gjort på større kohorter. Dette bidrar til
