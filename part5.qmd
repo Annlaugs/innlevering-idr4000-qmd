@@ -1,3 +1,333 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
 # Deloppgave 5: Analysere repeterte målinger
 
 <!-- Part 1: Analyzing repeated measures experiments -->
+
+## Introduksjon
+
+Styrketrening er en treningsform som fanger interessen til mange
+mennesker. For å øke kraftproduksjonen ved styrketrening kreves det både
+nevrale og struktuelle tilpasninger [@krieger2010]. Langvarig
+systematisk styrketrening er en effektiv metode for å øke
+muskelhypertrofi, benmasse og muskelstyrke. I tillegg gir styrketrening
+andre helsemessige gevinster ved å for eksempel reduserer risiokoen for
+sykdommer som blant annet diabetes og opprettholde den fysiske
+funksjonen, noe som er spesielt viktig for eldre.[@krieger2009;
+@amirthalingam2017]. Likevel viser det seg at de individuelle gevinstene
+er ulik[@Ahtiainen2016]. Det er derfor interresant å undersøke temaet
+styrketrening da det er mange forksjellige variabler som må tilpasses
+hvert enkelt individ for å kunne oppnå best mulig fremgang. Disse
+variablene kan være volum, intensistet, repetisjoner og frekvensen av
+treningsøkter[@Hammarström2020]. Studiene av Krieger (2010) og
+Amirthalingam (2017) uttrykker at det generelt er større styrkegevinster
+ved flere sett, men at årsakene til dette ikke er fullstendig forstått
+[@amirthalingam2017; @krieger2010]. Dette bekrefter også studien av
+Schoenfeld (2019) hvor det påpekes at volumet av styrketreningen har en
+betydelig rolle med tanke på muskeltilpasninger. Resultatet i studien
+indikerte at alle deltakerne hadde en signifikant økning i muskelstyrke
+fra pre-test til post-test. Til tross for økingen var det ingen
+signifikant forskjell mellom deltakerne som gjorde ett sett og de som
+gjorde tre sett.[@schoenfeld2019]. Dette understreker hvor interresant
+det er å undersøke tema da forskerne får ulikt resultat.
+
+Formålet med denne studien er å se på endringene i pre-test og post-test
+av muskelstyrke (legpress og kneekstensjon) og lean mass ved
+styrketrening med ett sett og tre sett.
+
+## Metode
+
+*Deltakere*
+
+Det ble rekrutert 41 røykfrie menn og kvinner mellom 18 og 40 år til
+studien. Kriteriene som ekskluderte deltakere var intoleranse av
+lokalbedøvelse, en treningshistorikk med mer en én styrketrneing i uka
+de siste tolv månedene før studien, nedsatt muskelstyrke grunnet
+tidligere eller nåværedne skader og inntak av reseptbelakte medikamenter
+som kunne forstyrre treningstilpasningen. Under dataanalysen ble syv
+deltakere eksluderte da de ikke gjennomførte minst 85% av de planlagte
+øktene hvor åsakene var blant annet skader og smerter urelatert til
+studien og vanskeligheter for å opprettholde studieprotokollen. Samtlige
+inkluderte deltakere uttrykte tidligere erfaring fra sportaktiviteter,
+hvorav 20 av dem var engasjert i fysisk aktivitet og trente to ganger i
+uken ved påmelding til studien. (De var innenfor kravene og hadde ikke
+mer en én styrketrening i uka). Alle deltakerne ble informaert om
+studiens potensielle risker og ubehag og deltakerne måtte gi samtykke i
+forkant.
+
+*Studieoversikt*
+
+Intervensjonen besto av 12 uker med full-kropps styrketrening fra
+september til november. Hovedfokuset i denne studien er på
+styrkeøvelsene legpress og kneekstensjon. For å kunne skille mellom
+treningsvolumet i hver enkelt deltaker ble alle øvelser utført
+unilateralt. Hver deltaker fikk utført protokollene for både single sett
+og flere sett da deltakerne fikk tilfeldig tildelt hvilket bein som
+skulle ta ett sett og hvilket som skulle ta tre sett. Muskelstyrken ble
+vurdert ved baseline, underveis i uke tre, fem og ni, og etter
+intervensjonen. I tillegg ble kroppssammensetningen (lean mass) målt før
+og etter intervensjonen ved DXA skanning. Før DXA målinger ble
+deltakerne bedt om å faste i to timer før og unngå anstrengende fysisk
+aktivitet de siste 48 timene.
+
+*Protokoll*
+
+Det ble utført en standarisert oppvarmingsrutine bestående av fem minutt
+ergometersykling etterfulgt av 10 repetisjoner med pushup, situp,
+rygghev og knebøy med kroppsvekt. Til slutt var det ett sett med 10
+repetisjoner ved 50% av 1RM for hver av styrkeøvelsene. Styrkeøvelsene
+startet med unilateral legpress og kneekstensjon enten som ett sett
+eller som tre sett ettersom hva deltakerne har fått tildelt. Det ene
+settet ble utført mellom det 2. og 3. settet av tresettprotokollen.
+Intensiteten under treningen hadde en gradvis økning med 10 RM de første
+to ukene, deretter 8 RM de neste tre ukene og 7 RM de siste sju ukene.
+91% av alle øktene hadde tilsyn. For at alle deltakerne skulle få utført
+øktene fikk noen av deltakere lov til å ta øktene på egenhånd uten
+tilsyn. Disse deltakerne måtte føre detaljerte logger som kontinuerlig
+ble kontrollert av forskerteamet sammen med deltakerne for å sikre at
+protokollen ble gjennomført. Det ble utdelt en standarisert drikk etter
+hver treningsøkt med 0.15 g protein, 11.2g karbohydrater og 0.5g fett
+for å sette igang restitusjonen.
+
+Ved baseline ble det utført styrkevurderinger to ganger med minst fire
+dagers mellomrom. Det ble testet 1RM, isokinetiske- og isometriske
+styrke. Maksimal styrke (1RM) ble i denne studien beregnet som én
+maksimal repetisjon i unilateral legpress og kneekstensjon. Etter en
+standardisert oppvarmingsrutine på ti, seks og tre repetisjoner på 50%,
+75% og 85% av forventet maksimale løft, ble 1RM funnet ved å gradvis øke
+vekten til deltakeren ikke kunne utføre løftet gjennom hele
+bevegelsesmønsteret. De fikk 4-6 forsøk hvor forsøket ble godkjent hvis
+øvelsen ble utført med full bevegelsesutslag. Den maksimale verdien av
+hver test ble brukt videre i analysen. Styrketreningsøkter ble adskilt
+med minst 48 timer fra andre treningsøkter.
+
+*Dataanalyse og statistikk*
+
+Alt av dataanalyse og statitsikk ble gjennomført i R-studio versjon
+4.2.1, hvor signifikantnivået ble satt på p \< 0.05. Data ble samlet og
+kalkulert ved endringer fra post-test til pre-test på muskestyrke(1RM)
+og lean mass. Det ble deretter gjennomført en paret t-test for å
+sammenligne endringene i lean mass og muskelstyrke (legpress og
+kneekstensjon) fra pre-test og post-test med ett sett og tre sett etter
+styrketrening over 12 uker .
+
+## Resultat
+
+Resultatene fra den paret t-testen omhandlet endringene i leanmass og
+indikerer at endringene i lean mass i ett og tre sett er signifikant ved
+t(33)=2.1875 og p=0.0359.
+
+Resultatene fra den paret t-testen omhandlet endringene i muskelstryke
+(1RM) i legpress og indikerer at endringene legpress i ett og tre sett
+er signifikant ved t(29)=2.1366 og p=0.0412. Det ble også gjennomført en
+paret t-test for å sammenligne endringene i muskelstyrke (1RM) i
+kneekstensjon. Resultatene indikerer at endringene i ett og tre sett er
+signifikant ved t(31)=3.3683 og p=0.002035.
+
+```{r}
+#| echo: FALSE
+#| message: FALSE
+#| warning: FALSE
+#| include: FALSE
+
+####LEAN MASS
+
+library(tidyverse); library(exscidata); library(lme4)
+
+# Load data
+dat <- dxadata %>%
+  select(participant:include, lean.left_leg, lean.right_leg) %>%
+        
+        # Extract leg specific data
+  pivot_longer(names_to = "leg", 
+               values_to = "lean.mass", 
+               cols = lean.left_leg:lean.right_leg) %>%
+  mutate(leg = if_else(leg == "lean.left_leg", "L", "R"), 
+         sets = if_else(multiple == leg, "multiple", "single")) %>%
+  select(participant, time, sex, include, sets, leg, lean.mass) %>%
+        # Filter only included participants
+        filter(include == "incl") %>%
+        # Make data set wider by time 
+        
+        pivot_wider(names_from = "time", 
+                    values_from = "lean.mass") %>%
+        # Calculate change score
+        
+        mutate(change = post - pre) %>%
+        
+        # Keep change score and make it wider by sets
+        select(participant:sets, change) %>%
+        pivot_wider(names_from = sets, values_from = change) %>%
+        
+  print()
+
+### Use simple t-test on change score
+
+t.test(dat$multiple, dat$single, paired = TRUE)
+```
+
+```{r}
+#| echo: FALSE
+#| message: FALSE
+#| warning: FALSE
+#| include: TRUE
+#| fig-cap: "Endring i lean mass fra pre-test til post-test ved singel sett og flere sett"
+
+library(exscidata)
+data("dxadata"); data("strengthvolume")
+
+library(tidyverse)
+
+library(tidyverse)
+
+dxadata %>%
+  select(participant:include, lean.left_leg, lean.right_leg) %>%
+  pivot_longer(names_to = "leg", 
+               values_to = "lean.mass", 
+               cols = lean.left_leg:lean.right_leg) %>%
+  mutate(leg = if_else(leg == "lean.left_leg", "L", "R"), 
+         sets = if_else(multiple == leg, "multiple", "single")) %>%
+  select(participant, time, sex, include, sets, leg, lean.mass) %>%
+  filter(time %in% c("pre", "post")) %>%
+  group_by(time, sets) %>%
+  summarise(m = mean(lean.mass)) %>%
+  mutate(time = factor(time, levels = c("pre", "post"))) %>%
+  ggplot(aes(time, m, color = sets,
+             group = sets)) + geom_line() +
+  labs(x= "Tidspunkt",
+       y = "Lean mass",
+       colour = "Sets")
+```
+
+```{r}
+#| echo: FALSE
+#| message: FALSE
+#| warning: FALSE
+#| include: FALSE
+
+#### MUSCLE STRENGTH, LEG PRESS
+
+library(tidyverse); library(exscidata); library(lme4)
+
+data("strengthvolume")
+
+
+# Load data
+dat1 <- strengthvolume %>%
+  select(participant, sex, exercise, include, time, sets, leg, load) %>%
+
+        # Filter only included participants
+        filter(include == "incl") %>%
+        
+        # Calculate average baseline
+        mutate(time = if_else(time %in% c("pre", "session1"), "pre", time)) %>%
+        group_by(time, exercise, participant, sex, sets) %>%
+        summarise(load = mean(load, bna.rm = TRUE)) %>%
+       
+        # Use a specific strength test and only pre-post data
+        
+         filter(exercise == "legpress", 
+                time %in% c("pre", "post")) %>%
+        # Make data set wider by time
+
+        pivot_wider(names_from = "time",
+                    values_from = "load") %>%
+        # Calculate change score
+
+        mutate(change = post - pre) %>% 
+
+        # Keep change score and make it wider by sets
+        select(participant:sets, change) %>%
+        pivot_wider(names_from = sets, values_from = change) %>%
+
+  print()
+
+### Use simple t-test on change score
+
+t.test(dat1$multiple, dat1$single, paired = TRUE)
+```
+
+```{r}
+#| echo: FALSE
+#| message: FALSE
+#| warning: FALSE
+#| include: FALSE
+
+#### MUSCLE STRENGTH, LEGEXTENTION
+
+library(tidyverse); library(exscidata); library(lme4)
+
+data("strengthvolume")
+
+
+# Load data
+dat2 <- strengthvolume %>%
+  select(participant, sex, exercise, include, time, sets, leg, load) %>%
+
+        # Filter only included participants
+        filter(include == "incl") %>%
+        
+        # Calculate average baseline
+        mutate(time = if_else(time %in% c("pre", "session1"), "pre", time)) %>%
+        group_by(time, exercise, participant, sex, sets) %>%
+        summarise(load = mean(load, bna.rm = TRUE)) %>%
+       
+        # Use a specific strength test and only pre-post data
+        
+         filter(exercise == "legext", 
+                time %in% c("pre", "post")) %>%
+        # Make data set wider by time
+
+        pivot_wider(names_from = "time",
+                    values_from = "load") %>%
+        # Calculate change score
+
+        mutate(change = post - pre) %>% 
+
+        # Keep change score and make it wider by sets
+        select(participant:sets, change) %>%
+        pivot_wider(names_from = sets, values_from = change) %>%
+
+  print()
+
+### Use simple t-test on change score
+
+t.test(dat2$multiple, dat2$single, paired = TRUE)
+```
+
+## Diskusjon
+
+Resultatene representert i denne studien samsvarer i stor grad med annen
+litteratur som tidligere nevnte studie av Athiainen (2016), representert
+i introduksjonen, som uttrykte at det kan forekomme individuelle
+forskjeller ved styrketrening.[@Ahtiainen2016]. Dette kan vi se ut i fra
+resultatetene i datasettet hvor hvert individ reagerer forskjellig på
+intervensjonen og får ulikt resultat. Likevel ser vi at det er en større
+økning i muskelstyrke og lean mass i beinene ved tre sett enn ett sett.
+Både studiene av Krieger (2010), Amirthalingam (2017) og Schoenfeld
+(2019) mener at det er større styrkegevinster med et treningsvolum på
+flere sett[@amirthalingam2017; @krieger2010; @schoenfeld2019]. Selv om
+studien av Schoenfeld (2019) mente at flere sett gir mer styrkegevinst
+resulterte den studien i en ikke signifikant forksjell mellom ett og
+flere sett. Studien begrunner resultatet med blant annet at de hadde
+8-12RM hvor høyere eller lavere belastning kan gi et annet resultat
+eller at en lengre treningsperiode enn åtte uker kan gi flere
+observasjoner som igjen kan påvirke studiens resultater.
+@schoenfeld2019]. Resultatet i denne studien viser derimot til at det er
+en signifikant forskjell mellom ett og flere sett hvor flere sett ga
+større økning i muskelstyrke ved 1RM og lean mass i beinene.
+
+## Konklusjon
+
+Ut i fra resultatene og tidligere studier kan vi i denne studien
+konkludere med at alle deltakerne fikk en økning i muskelstyrke
+(legpress og kneekstensjon) og lean mass både ved ett sett og tre sett,
+ved to til tre styrkeøkter over en periode på 12 uker. Alt tatt i
+betraktning var økningen i muskelstyrke og lean mass betydelig større
+ved tre sett enn ett sett, noe som indikerer at tre sett er et mer
+effektivt treningsvolum for å øke muskelstyrke (1RM) og lean mass i
+beinene, etter to til tre styrkeøkter over 12 uker (p\<0.05).
