@@ -1,3 +1,5 @@
 # Forord {.unnumbered}
 
+Dette er eksamen i kvantitativ metode og statistikk
+
 Data og reproduserbare filer kan finnes her: http://github.com/Annlaugs/innlevering-idr4000-qmd

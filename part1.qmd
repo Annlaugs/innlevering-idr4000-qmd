@@ -8,7 +8,7 @@ editor_options:
 
 <!-- Part 1: Descriptive statistics, reliability and validity, tools for reproducible data science -->
 
-### Introduksjon
+## Introduksjon
 
 Laktatterskel, også kjent som anaerob terskel er den høyeste arbeidsintensiteten der mengden laktat (også kalt melkesyre) som produseres og fjernes er lik. Under fysisk aktivitet frigjøres energi i kroppen både gjennom aerobe og anaerobe prosesser. Ved arbeid over en viss intensitet produseres også laktat i tillegg til energi, desto høyere intesitet, desto større er laktatproduksjonen [@dahl2005]. Laktatterskelen er altså den høyeste intensiteten en kan holde før konsentrasjonen av laktat overskrider fjerningen av laktat [@Brooks1986].
 
@@ -16,7 +16,7 @@ Hensikten med denne oppgaven er å presentere målinger for reliabilitet av data
 
 Denne oppgaven tar for seg resultater som ble gjennomført via testing på sykkel, og vil fokusere på watt og hjertefrekvens ved 4mmol.
 
-### Metode
+## Metode
 
 I denne oppgaven er det brukt en kombinasjon av innhentede data fra idrettsstudenter ved HINN og et allerde eksisterende datasett kalt "lactate threshold tests". Data som ble innhentet av studenter ble gjennomført i en periode på 1-4 testdager. Flere av studentene gjennomførte pre- og post-test samme dag. Dataene som ble innhentet av studenter var fra tester som ble gjennomført samme dag.
 
@@ -54,7 +54,7 @@ lac_data %>%
   print()
 ```
 
-### Resultater
+## Resultater
 
 #### Gjennomsnitt av deltakere
 
@@ -190,7 +190,7 @@ dat2 %>%
 
 ```
 
-### Diskusjon og reliabilitet
+## Diskusjon og reliabilitet
 
 Resultatet viste først «NA», fordi det lå «NA» i det eksisterende datasettet. Dette ble endret slik at resultat for differansen på watt ved 4mmol/L ble et standardavvik på 19,1, et gjennomsnitt på 176 og typical error på 13,5. Dersom resultatet omhandlet endringene i gjennomsnittet er under eller lik typical error, er ikke testen/resultatene til å stole på/reliable [@Hopkins2000,s.11]. Ut fra dette utsagnet fra Hopkins (2000) kan vi si at våre resultater er til å stole på. Vi kan med fordel ha hatt en gjennomgang av testen med alle forsøkspersonene i forkant for å minske læringseffekten. Ut ifra Hopkins (2000) hadde flere forsøkspersoner i testen gitt et bedre resultat og testen kunne blitt mer reliabel [@Hopkins2000, s.10]. Noen av studentene fikk unøyaktig målinger grunnet mangel på oksygenopptak, mangel på pulsbelte og feil med BIOSEN. Disse testresultatene ble ekskludert fra rapporten.
 

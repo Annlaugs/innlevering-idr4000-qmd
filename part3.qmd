@@ -2,7 +2,7 @@
 
 <!-- Part 3: Philosophy of science -->
 
-### 1. Falsifikasjonisme
+## Falsifikasjonisme
 
 *Hva er Poppers falsifiserbarhetskriterium og hvilket spørsmål skal dette kriterium gi svar på? Hvorfor mener andre vitenskapsfilosofer (f.eks. Okasha) at vi ikke trenger å svare på dette spørsmålet? Hvem synes dere har rett?*
 
@@ -12,7 +12,7 @@ Andre vitenskapsfilosofer mener at det ikke er en sterk linje mellom vitenskapel
 
 Jeg syntes det er utfordrende å velge hvem som har rett. Poppers falsifiseringskriterium viser til en enkel og klar måte for å skille vitenskap og uvitenskap på. I tillegg unngår man induksjonsproblemet, som kan være en stor fordel. Samtidig mener jeg at det er uheldig å eliminere alt som ikke kan falsifiseres da det ville vært lite fremgang innen forskning hvis alt som møtte motstand ble eliminert. I og med at alle har gode argumenter, kommer jeg ikke fram til en avgjørelse om hvem jeg syntes har rett.
 
-### 2. Hypotetiske deduktive metoden og abduksjon
+## Hypotetisk deduktiv metode og abduksjon
 
 *Hva er strukturen på et bekreftende vitenskapelig argument ifølge den hypotetisk deduktive metode? Forklar ut fra Hempels artikkel, men bruk egne eksempel. Sammenlign også Hempels HD-metode med hvordan vitenskapelig bekreftelse fungerer ifølge enten abduksjon eller Bayesianisme.*
 
@@ -22,7 +22,7 @@ En annen vitenskapelig bekreftelse man kan sammenligne HD-metoden med er abduksj
 
 Abduksjon ligner på den hypotetisk deduktive metoden, men forskjellene mellom HD-metoden og abduksjon er at man i abduksjon ser på flere ulike teorier som forklarer det samme fenomenet, men HD-metoden ser kun på én teori. Altså, i abduksjon har vi flere teorier som forklarer dataene, hvor dataene bekrefter teorien(e). I HD-metoden starter man med å argumentere før en teori hvor dataen bekrefter teorien til en viss grad. [@dellsen_abduksjon_2022]. Ved abduksjon sammenlignes de ulike teoriene og den som gir mest mening ut ifra dataene velges [@okasha, s. 29]. Hvilken teori man velger i abduksjon kan bli en subjektiv avgjørelse derav egne erfaringer og observasjoner ligger til grunn for bestemmelsen [@okasha, s.33]. Abduksjon vil ha et stort fokus på å unngå deduksjon. HD-metoden kan derimot både være deduktiv og induktivt. Det kan forklares ved at prosessen starter deduktivt ved at man har en teori som man samler inn data mot, deretter kan dataen induktivt bekrefte teorien tilbake. Ved å danne empiriske konsekvenser som kan forskes på videre prøver abduksjon å induktivt bekrefte teorier til en viss grad. [@dellsen_abduksjon_2022].
 
-### 3. Replikasjonskrisen
+## Replikasjonskrisen
 
 *Hva mener Alexander Bird er forklaringen til at mange resultat i noen vitenskaper ikke repliseres? Oppsummere Birds argument for dette. Sammenlign også Birds forklaring med noen av de andre forklaringene som Bird diskuterer i seksjon 4. Har Bird rett i at hans forklaring er bedre?*
 
